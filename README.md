@@ -5,6 +5,9 @@ Coordinated decision making and control can improve traffic efficiency while gua
 ## The video (full version) can be seen in the attachments, and here we provide some segmental GIFs.
 
 ### Case study
+
+<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/DFSpanningTree_Pic.gif" width="700" />
+
 <img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/DFSpanningTree_Fig.gif" width="700" />
 
 
