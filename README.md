@@ -6,17 +6,17 @@ Coordinated decision making and control can improve traffic efficiency while gua
 
 ### Case study
 
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/DFSpanningTree_Pic.gif" width="300" />
+<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/DFSpanningTree_Pic.gif" width="800" />
 
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/DFSpanningTree_Fig.gif" width="300" />
+<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/DFSpanningTree_Fig.gif" width="800" />
 
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/OPT-DFSTree_Pic.gif" width="300" />
+<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/OPT-DFSTree_Pic.gif" width="800" />
 
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/OPT-DFSTree_Fig.gif" width="300" />
+<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/OPT-DFSTree_Fig.gif" width="800" />
 
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/connected_sequential_bfs_Pic.gif" width="300" />
+<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/connected_sequential_bfs_Pic.gif" width="800" />
 
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/connected_sequential_bfs_Fig.gif" width="300" />
+<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/connected_sequential_bfs_Fig.gif" width="800" />
 
 
 For further details, please refer to:
@@ -26,4 +26,3 @@ Cai, M., Xu, Q., Chen, C., Wang, J., Li, K., Wang, J., & Zhu, Q. (2021). Formati
 
 Corresponding E-mail: qingxu@tsinghua.edu.cn
 
-This work was supported by the National Key Research and Development Program of China under Grant 2018YFE0204302, the National Natural Science Foundation of China under Grant 52072212, and Intel Collaborative Research Institute Intelligent and Automated Connected Vehicles. 
