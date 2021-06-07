@@ -6,17 +6,11 @@ Coordinated decision making and control can improve traffic efficiency while gua
 
 ### Case study
 
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/DFSpanningTree_Pic.gif" width="800" />
+<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/DFST.gif" width="800" />
 
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/DFSpanningTree_Fig.gif" width="800" />
+<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/iDFST.gif" width="800" />
 
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/OPT-DFSTree_Pic.gif" width="800" />
-
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/OPT-DFSTree_Fig.gif" width="800" />
-
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/connected_sequential_bfs_Pic.gif" width="800" />
-
-<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/connected_sequential_bfs_Fig.gif" width="800" />
+<img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/MCC.gif" width="800" />
 
 
 For further details, please refer to:
