@@ -1,10 +1,8 @@
-# GraphBashedCoordination
+# A Graph-based Conflict-free Cooperation Method for Connected and Automated Vehicles at Unsignalized Intersections
 
-Coordinated decision making and control can improve traffic efficiency while guaranteeing driving safety. This paper proposes a formation control method for multiple Connected and Automated Vehicles (CAVs) on multi-lane roads. Firstly, a bi-level planning framework is proposed to switch the structure of the formation in different scenarios smoothly and effectively. Secondly, the relative coordinate system is established and the conflict-free relative paths are planned in the upper level. Then, multi-stage trajectory planning and tracking are modeled and solved as an optimal control problem with constraints in the lower level. Next, case study is conducted to verify the function of the proposed method in different scenarios. Finally, simulation in the lane-drop bottleneck scenario is carried out under different traffic volume and numerical results indicate that the proposed method can improve both traffic efficiency and fuel economy at high traffic volume.
+Connected and automated vehicles have shown great potentials to improve traffic mobility and reduce emissions, especially at unsignalized intersections. Previous research has shown that vehicle passing order is the key influence factor in improving intersection traffic mobility. In this paper, we propose a graph-based cooperation method to formalize the conflict-free scheduling problem at an unsignalized intersection. Based on the graphic analysis, the vehicle's trajectory conflict relationship is modeled as a conflict directed graph and a coexisting undirected graph. Then, two graph-based methods are proposed to solve the vehicle passing order. One method is an improved depth-first spanning tree algorithm which aims to find the local optimal passing order for each vehicle. The other novel method is a minimum clique cover algorithm that solves the global optimal problem. These methods lead to a feasible vehicle passing order, which is also the geometry topology. Finally, a distributed control framework and the communication topology are presented to realize the conflict-free cooperation of the vehicles. Extensive numerical simulations are conducted in multiple vehicle input and traffic volumes, and simulation results verify the effectiveness of the proposed algorithms.
 
-## The video (full version) can be seen in the attachments, and here we provide some segmental GIFs.
-
-### Case study
+## Case study
 
 <img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/DFST.gif" width="800" />
 
@@ -13,10 +11,7 @@ Coordinated decision making and control can improve traffic efficiency while gua
 <img src="https://github.com/CeroChen/GraphBashedCoordination/blob/main/MCC.gif" width="800" />
 
 
-For further details, please refer to:
+<!-- For further details, please refer to:
 
-Cai, M., Xu, Q., Chen, C., Wang, J., Li, K., Wang, J., & Zhu, Q. (2021). Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads. arXiv preprint arXiv:2103.10287. (https://arxiv.org/abs/2103.10287)
-
-
-Corresponding E-mail: qingxu@tsinghua.edu.cn
+Cai, M., Xu, Q., Chen, C., Wang, J., Li, K., Wang, J., & Zhu, Q. (2021). Formation Control for Multiple Connected and Automated Vehicles on Multi-lane Roads. arXiv preprint arXiv:2103.10287. (https://arxiv.org/abs/2103.10287) -->
 
